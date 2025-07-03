@@ -2,7 +2,7 @@
  - Baixar [.gitconfig](https://github.com/Lowpoc/APPLY.ENV/blob/master/Git/.gitconfig).
  - Adicionar a nova configuração  utilizando commando ``git config --global -e``
  - Alterar o campo Email e User do .config costumizado
- - Fechar e Abrir terminal
+ - Fechar e Abrir terminall
  
 Agora você terás estes alias disponiveis lá:
    ```bash
